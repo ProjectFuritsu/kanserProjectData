@@ -1,3 +1,25 @@
 Financial_Insti:
   - id: 1
-    name: "Philhealth"
+    name: "PhilHealth"
+    description:
+    location:
+    longitude:
+    latitude:
+
+    services:
+      - serviceID:
+        service_name:
+        service_description:
+
+        requirements:
+          - "Valid ID"
+          - "Birth Certificate"
+          - "Completed PMRF form"
+
+        procedure:
+          - step: 1
+            instruction: "Fill out the PMRF form"
+          - step: 2
+            instruction: "Prepare required documents"
+          - step: 3
+            instruction: "Submit documents to PhilHealth office"
