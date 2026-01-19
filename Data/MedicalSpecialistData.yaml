@@ -1,0 +1,14 @@
+Medical_Specialist:
+  - id:
+    name:
+    description:
+    imageURL:
+    source:
+    clinics:
+      - clinicid:
+        location:
+        schedule:
+          - day:
+            timeIN:
+            timeOUT:
+      
