@@ -1,6 +1,8 @@
 Feed:
   - id:
     title:
+    # Just right click and choose "copy image address"
+    bgImageURL:
     # [ News, Blog, Article, etc]
     category:
     # The content of the feed, if it is a blog then put the whole blog
