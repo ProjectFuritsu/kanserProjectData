@@ -16,7 +16,7 @@ Financial_Insti:
         type: "Email"
         contact_details: "publicaffairs.pro11@philhealth.gov.ph"
 
-    services:
+    programs:
       - serviceID: 1
         service_name: "YAKAP Program"
         service_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
