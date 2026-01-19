@@ -1,0 +1,12 @@
+Feed:
+  - id:
+    title:
+    # [ News, Blog, Article, etc]
+    category:
+    # The content of the feed, if it is a blog then put the whole blog
+    content:
+    author:
+    publishDate:
+    source:
+    
+    
