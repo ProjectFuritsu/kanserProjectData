@@ -42,3 +42,225 @@ Financial_Insti:
             instruction: "Prepare required documents"
           - step: 3
             instruction: "Submit documents to PhilHealth office"
+
+            
+   - id: 2
+    name: "PhilHealth"
+    description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
+    location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
+    longitude:
+    latitude:
+    contacts:
+      - contact_id: 1
+        type: "Mobile"
+        contact_details: "09384376090"
+      - contact_id: 2
+        type: "Landline"
+        contact_details: "(082) 295-2133"
+      - contact_id: 3
+        type: "Email"
+        contact_details: "publicaffairs.pro11@philhealth.gov.ph"
+
+    programs:
+      - programID: 161213
+        program_name: "YAKAP Program"
+        program_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
+
+        benefits:
+          - benefit_id: 1
+            benefit_name: "Primary Care Checkup"
+          - benefit_id: 2
+            benefit_name: "Laboratory Test"
+          - benefit_id: 1
+            benefit_name: "Free Medicine"
+          - benefit_id: 1
+            benefit_name: "Cancer Screening Test"
+
+        requirements:
+          - requirement_id: 1
+            requirement_description: "A person must registered to the choosen yakap clinic."
+
+        procedure:
+          - step: 1
+            instruction: "Fill out the PMRF form"
+          - step: 2
+            instruction: "Prepare required documents"
+          - step: 3
+            instruction: "Submit documents to PhilHealth office"
+  
+  - id: 3
+    name: "PhilHealth"
+    description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
+    location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
+    longitude:
+    latitude:
+    contacts:
+      - contact_id: 1
+        type: "Mobile"
+        contact_details: "09384376090"
+      - contact_id: 2
+        type: "Landline"
+        contact_details: "(082) 295-2133"
+      - contact_id: 3
+        type: "Email"
+        contact_details: "publicaffairs.pro11@philhealth.gov.ph"
+
+    programs:
+      - programID: 161213
+        program_name: "YAKAP Program"
+        program_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
+
+        benefits:
+          - benefit_id: 1
+            benefit_name: "Primary Care Checkup"
+          - benefit_id: 2
+            benefit_name: "Laboratory Test"
+          - benefit_id: 1
+            benefit_name: "Free Medicine"
+          - benefit_id: 1
+            benefit_name: "Cancer Screening Test"
+
+        requirements:
+          - requirement_id: 1
+            requirement_description: "A person must registered to the choosen yakap clinic."
+
+        procedure:
+          - step: 1
+            instruction: "Fill out the PMRF form"
+          - step: 2
+            instruction: "Prepare required documents"
+          - step: 3
+            instruction: "Submit documents to PhilHealth office"
+
+  - id: 4
+    name: "PhilHealth"
+    description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
+    location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
+    longitude:
+    latitude:
+    contacts:
+      - contact_id: 1
+        type: "Mobile"
+        contact_details: "09384376090"
+      - contact_id: 2
+        type: "Landline"
+        contact_details: "(082) 295-2133"
+      - contact_id: 3
+        type: "Email"
+        contact_details: "publicaffairs.pro11@philhealth.gov.ph"
+
+    programs:
+      - programID: 161213
+        program_name: "YAKAP Program"
+        program_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
+
+        benefits:
+          - benefit_id: 1
+            benefit_name: "Primary Care Checkup"
+          - benefit_id: 2
+            benefit_name: "Laboratory Test"
+          - benefit_id: 1
+            benefit_name: "Free Medicine"
+          - benefit_id: 1
+            benefit_name: "Cancer Screening Test"
+
+        requirements:
+          - requirement_id: 1
+            requirement_description: "A person must registered to the choosen yakap clinic."
+
+        procedure:
+          - step: 1
+            instruction: "Fill out the PMRF form"
+          - step: 2
+            instruction: "Prepare required documents"
+          - step: 3
+            instruction: "Submit documents to PhilHealth office"
+
+            
+   - id: 5
+    name: "PhilHealth"
+    description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
+    location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
+    longitude:
+    latitude:
+    contacts:
+      - contact_id: 1
+        type: "Mobile"
+        contact_details: "09384376090"
+      - contact_id: 2
+        type: "Landline"
+        contact_details: "(082) 295-2133"
+      - contact_id: 3
+        type: "Email"
+        contact_details: "publicaffairs.pro11@philhealth.gov.ph"
+
+    programs:
+      - programID: 161213
+        program_name: "YAKAP Program"
+        program_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
+
+        benefits:
+          - benefit_id: 1
+            benefit_name: "Primary Care Checkup"
+          - benefit_id: 2
+            benefit_name: "Laboratory Test"
+          - benefit_id: 1
+            benefit_name: "Free Medicine"
+          - benefit_id: 1
+            benefit_name: "Cancer Screening Test"
+
+        requirements:
+          - requirement_id: 1
+            requirement_description: "A person must registered to the choosen yakap clinic."
+
+        procedure:
+          - step: 1
+            instruction: "Fill out the PMRF form"
+          - step: 2
+            instruction: "Prepare required documents"
+          - step: 3
+            instruction: "Submit documents to PhilHealth office"
+  
+  - id: 6
+    name: "PhilHealth"
+    description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
+    location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
+    longitude:
+    latitude:
+    contacts:
+      - contact_id: 1
+        type: "Mobile"
+        contact_details: "09384376090"
+      - contact_id: 2
+        type: "Landline"
+        contact_details: "(082) 295-2133"
+      - contact_id: 3
+        type: "Email"
+        contact_details: "publicaffairs.pro11@philhealth.gov.ph"
+
+    programs:
+      - programID: 161213
+        program_name: "YAKAP Program"
+        program_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
+
+        benefits:
+          - benefit_id: 1
+            benefit_name: "Primary Care Checkup"
+          - benefit_id: 2
+            benefit_name: "Laboratory Test"
+          - benefit_id: 1
+            benefit_name: "Free Medicine"
+          - benefit_id: 1
+            benefit_name: "Cancer Screening Test"
+
+        requirements:
+          - requirement_id: 1
+            requirement_description: "A person must registered to the choosen yakap clinic."
+
+        procedure:
+          - step: 1
+            instruction: "Fill out the PMRF form"
+          - step: 2
+            instruction: "Prepare required documents"
+          - step: 3
+            instruction: "Submit documents to PhilHealth office"
