@@ -7,6 +7,10 @@ Medical_Specialist:
     clinics:
       - clinicid:
         location:
+         contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: "09384376090"
         schedule:
           - day:
             timeIN:
