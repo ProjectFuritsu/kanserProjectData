@@ -2,7 +2,7 @@ Financial_Insti:
   - id: 1
     name: "PhilHealth"
      # Just right click and choose "copy image address"
-    bgImageURL:
+    bgImageURL: "https://newsfortph.com/upload/media/posts/2022-07/10/philhealth-davao-region-intensifies-konsulta-campaign_1657399553-b.jpg"
     source:
     description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
     # [Private, Public, etc]
