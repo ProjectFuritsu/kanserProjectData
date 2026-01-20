@@ -12,6 +12,12 @@ Financial_Insti:
     longitude:
     latitude:
 
+    schedule:
+      - isWholeWeek: "false"
+      - day: Monday
+        timeIn: "8:00 am"
+        timeOut: "5:00 pm"
+
     
     contacts:
       - contact_id: 1
