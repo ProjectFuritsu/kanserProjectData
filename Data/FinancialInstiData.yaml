@@ -27,6 +27,7 @@ Financial_Insti:
     programs:
       - programID: 161213
         program_name: "YAKAP Program"
+        eligibility: "PhilHealth members"
         program_description: "Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at maiwasan ang sakit."
         source:
         
