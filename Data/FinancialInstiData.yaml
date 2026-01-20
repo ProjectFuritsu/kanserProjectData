@@ -5,7 +5,8 @@ Financial_Insti:
     bgImageURL:
     source:
     description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
-   
+    # [Private, Public, etc]
+    type: "Public Institution"
     location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
      # These Data are base on the google maps
     longitude:
