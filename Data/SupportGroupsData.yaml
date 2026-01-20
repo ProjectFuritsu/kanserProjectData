@@ -2,6 +2,8 @@ Support_Group:
   - id:
     name:
     description:
+    # [General Support Groups, Peer Support Groups, Therapeutic Support, Condition-Specific Support Groups, Online Support Groups, Family Support Groups, Educational Support Groups]
+    type: "General Support Groups"
     # Official FB page or just leave it blank
     socmedURL:
     # Just right click and choose "copy image address"
