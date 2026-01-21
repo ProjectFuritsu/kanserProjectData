@@ -8,10 +8,11 @@ Health_Insti:
       # [Private, Public, etc]
     type: "Public Institution"
     
-    location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
+    location: "J.P. Laurel Ave, Bajada, Davao City"
     # These Data are base on the google maps
-    longitude:
-    latitude:
+   
+    latitude: 7.099167
+    longitude: 125.619722
    
     contacts:
       - contact_id: 1
