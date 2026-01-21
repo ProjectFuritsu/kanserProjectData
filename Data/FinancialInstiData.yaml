@@ -13,7 +13,7 @@ Financial_Insti:
     latitude:
 
     schedule:
-      isWholeWeek: "false"
+      isWholeWeek: false
       - day: "Monday"
         timeIn: "8:00 am"
         timeOut: "5:00 pm"
