@@ -14,7 +14,7 @@ Financial_Insti:
 
     schedule:
       isWholeWeek: "false"
-      - day: Monday
+      - day: "Monday"
         timeIn: "8:00 am"
         timeOut: "5:00 pm"
 
