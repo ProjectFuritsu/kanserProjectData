@@ -1,10 +1,10 @@
 Health_Insti:
   - id: 1
-    name: "PhilHealth"
+    name: "SMPC Cancer Institute"
      # Just right click and choose "copy image address"
-    bgImageURL:
+    bgImageURL: "https://media.assettype.com/sunstar%2F2025-09-20%2F08lzbtjf%2FUntitled-1.jpg"
     source:
-    description: "PhilHealth is the Philippines' government-owned health insurer, providing universal health coverage to all Filipinos through a social insurance program that pools funds from member contributions (employed, self-employed, voluntary) to subsidize medical costs, aiming to make healthcare affordable and accessible for everyone, including hospitalizations, specific treatments, and preventive care."
+    description: "The Southern Philippines Medical Center is the largest government hospital under the Department of Health of the Republic of the Philippines. It is located at the JP Laurel Ave, Bajada, Davao City. It began as the Davao Medical Center. Its name was changed on November 19, 2009, by Republic Act 9792."
       # [Private, Public, etc]
     type: "Public Institution"
     
