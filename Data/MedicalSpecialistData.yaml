@@ -1,19 +1,25 @@
 Medical_Specialist:
-  - id:
-    name:
-    specialty: 
+  - id: 1
+    name: "Dr. Elena M. Santos"
+    specialty: "Interventional Cardiologist"
     description:
-    imageURL:
+    imageURL: "https://i.pravatar.cc/150?u=elena"
     source:
     clinics:
-      - clinicid:
-        location:
-         contacts:
+      - clinicid: 1
+        isWalkIns: false
+        canDoBoth: true
+        location: "St. Jude Medical Center, Room 302, Quezon City"
+        contacts:
           - contact_id: 1
             type: "Mobile"
             contact_details: "09384376090"
         schedule:
-          - day:
-            timeIN:
-            timeOUT:
+          - day: "Monday"
+            timeIN: "21:00"
+            timeOUT: "22:00"
+          - day: "Friday"
+            timeIN: "09:00"
+            timeOUT: "12:00"
+      
       
