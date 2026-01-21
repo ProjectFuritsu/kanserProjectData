@@ -15,9 +15,9 @@ Medical_Specialist:
             type: "Mobile"
             contact_details: "09384376090"
         schedule:
-          - day: "Monday"
-            timeIN: "21:00"
-            timeOUT: "22:00"
+          - day: "Wednesday"
+            timeIN: "23:00"
+            timeOUT: "24:00"
           - day: "Friday"
             timeIN: "09:00"
             timeOUT: "12:00"
