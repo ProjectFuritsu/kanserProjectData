@@ -9,9 +9,9 @@ Financial_Insti:
     type: "Public Institution"
     location: "Valgosons Building, Bolton Extension, Poblacion, Davao City"
      # These Data are base on the google maps
-    longitude:
-    latitude:
-
+    latitude: 7.303707577498103
+    longitude: 125.67891563527763
+    
     schedule:
       isWholeWeek: false
       days:                # This key "holds" the list
