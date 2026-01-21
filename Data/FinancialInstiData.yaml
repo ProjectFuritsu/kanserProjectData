@@ -14,9 +14,10 @@ Financial_Insti:
 
     schedule:
       isWholeWeek: false
-      - day: "Monday"
-        timeIn: "8:00 am"
-        timeOut: "5:00 pm"
+      days:                # This key "holds" the list
+        - day: "Monday"
+          timeIn: "8:00 am"
+          timeOut: "5:00 pm"
 
     
     contacts:
