@@ -14,15 +14,15 @@ Health_Insti:
     latitude: 7.099167
     longitude: 125.619722
 
-   schedule:
-     isWholeWeek: false
-     days: 
-       - day: "Monday"
-         timeIn: "8:00 am"
-         timeOut: "5:00 pm"
-       - day: "Teusday"
-         timeIn: "8:00 am"
-         timeOut: "5:00 pm"
+    schedule:
+      isWholeWeek: false
+      days: 
+        - day: "Monday"
+          timeIn: "8:00 am"
+          timeOut: "5:00 pm"
+        - day: "Teusday"
+          timeIn: "8:00 am"
+          timeOut: "5:00 pm"
    
     contacts:
       - contact_id: 1
