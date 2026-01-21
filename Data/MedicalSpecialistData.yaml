@@ -1,6 +1,7 @@
 Medical_Specialist:
   - id:
     name:
+    specialty: 
     description:
     imageURL:
     source:
