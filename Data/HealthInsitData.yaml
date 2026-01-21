@@ -15,14 +15,14 @@ Health_Insti:
     longitude: 125.619722
 
    schedule:
-    isWholeWeek: false
-    days:                # This key "holds" the list
-      - day: "Monday"
-        timeIn: "8:00 am"
-        timeOut: "5:00 pm"
-      - day: "Teusday"
-        timeIn: "8:00 am"
-        timeOut: "5:00 pm"
+     isWholeWeek: false
+     days: 
+       - day: "Monday"
+         timeIn: "8:00 am"
+         timeOut: "5:00 pm"
+       - day: "Teusday"
+         timeIn: "8:00 am"
+         timeOut: "5:00 pm"
    
     contacts:
       - contact_id: 1
