@@ -1,7 +1,7 @@
 Support_Group:
   - id: 1
     name: "AMUMA"
-    description:
+    description: 'AMUMA is a non-stock, non-profit foundation based in Davao City, Philippines. We are a group of dynamic and caring individuals committed to meeting the spiritual, emotional, and practical needs of cancer patients, their families and caregivers, by providing holistic care and support through building and maintaining a healing center for education, counseling, networking, and empowerment.'
     # [General Support Groups, Peer Support Groups, Therapeutic Support, Condition-Specific Support Groups, Online Support Groups, Family Support Groups, Educational Support Groups]
     type: "General Support Groups"
     # Official FB page or just leave it blank
