@@ -58,7 +58,7 @@ Medical_Specialist:
         schedule:
           - day: "Monday-Friday"
             timeIN: "09:00 pm"
-            timeOUT: "11:00 pm"
+            timeOUT: "9:42 pm"
 
   - id: 3
     name: "Dr. Manolete Renato Guerrero"
