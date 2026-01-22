@@ -34,8 +34,8 @@ Medical_Specialist:
             contact_details: "09384376090"
         schedule:
           - day: "Thursday"
-            timeIN: "08:00 am"
-            timeOUT: "10:00 am"
+            timeIN: "9:31 pm"
+            timeOUT: "01:00 am"
           - day: "Friday"
             timeIN: "08:00 am"
             timeOUT: "05:00 pm"
