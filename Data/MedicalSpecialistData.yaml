@@ -29,16 +29,16 @@ Medical_Specialist:
         canDoBoth: true
         location: "San Pedro Hospital"
         contacts:
-            - contact_id: 1
+          - contact_id: 1
             type: "Mobile"
             contact_details: "09384376090"
         schedule: 
-            - day: "Thursday"
-                timeIN: "08:00"
-                timeOUT: "10:00"
-            - day: "Friday"
-                timeIN: "08:00"
-                timeOUT: "17:00"
+          - day: "Thursday"
+            timeIN: "08:00"
+            timeOUT: "10:00"
+          - day: "Friday"
+            timeIN: "08:00"
+            timeOUT: "17:00"
        
       
       
