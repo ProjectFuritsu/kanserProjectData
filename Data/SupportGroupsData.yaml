@@ -13,7 +13,7 @@ Support_Group:
     longitude:
     latitude:
 
-    founder:
+    founder: "Dr. Jose Beltran" 
     contacts:
       - contact_id: 1
         type: "Mobile"
