@@ -2,9 +2,9 @@ Medical_Specialist:
   - id: 1
     name: "Dr. Elena M. Santos"
     specialty: "Interventional Cardiologist"
-    description:
+    description: "Specializes in catheter-based treatment of structural heart diseases, including angioplasty and stenting."
     imageURL: "https://i.pravatar.cc/150?u=elena"
-    source:
+    source: null
     clinics:
       - clinicid: 1
         isWalkIns: false
@@ -16,29 +16,89 @@ Medical_Specialist:
             contact_details: "09384376090"
         schedule:
           - day: "Monday"
-            timeIN: "08:00"
-            timeOUT: "17:00"
+            timeIN: "08:00 am"
+            timeOUT: "05:00 pm"
           - day: "Tuesday"
-            timeIN: "08:00"
-            timeOUT: "17:00"
+            timeIN: "08:00 am"
+            timeOUT: "05:00 pm"
           - day: "Wednesday"
-            timeIN: "08:00"
-            timeOUT: "17:00"
+            timeIN: "08:00 am"
+            timeOUT: "05:00 pm"
       - clinicid: 2
         isWalkIns: false
         canDoBoth: true
-        location: "San Pedro Hospital"
+        location: "San Pedro Hospital, Medical Arts Building, Davao City"
         contacts:
           - contact_id: 1
             type: "Mobile"
             contact_details: "09384376090"
-        schedule: 
+        schedule:
           - day: "Thursday"
-            timeIN: "08:00"
-            timeOUT: "10:00"
+            timeIN: "08:00 am"
+            timeOUT: "10:00 am"
           - day: "Friday"
-            timeIN: "08:00"
-            timeOUT: "17:00"
-       
-      
-      
+            timeIN: "08:00 am"
+            timeOUT: "05:00 pm"
+
+  - id: 2
+    name: "Dr. Sheldon Paragas"
+    specialty: "Pediatric Interventional Cardiologist"
+    description: "Expert in treating congenital heart defects in children using minimally invasive procedures."
+    imageURL: "https://i.pravatar.cc/150?u=sheldon"
+    source: "https://nowserving.ph/doc/sheldon-paragas"
+    clinics:
+      - clinicid: 1
+        isWalkIns: true
+        canDoBoth: true
+        location: "Davao Doctors Hospital, 118 E. Quirino Ave, Davao City"
+        contacts:
+          - contact_id: 1
+            type: "Landline"
+            contact_details: "(082) 222-8000"
+        schedule:
+          - day: "Monday-Friday"
+            timeIN: "12:00 pm"
+            timeOUT: "06:00 pm"
+
+  - id: 3
+    name: "Dr. Manolete Renato Guerrero"
+    specialty: "Neurologist"
+    description: "A well-known specialist in the field of Adult Neurology, particularly focusing on stroke and elderly patient care."
+    imageURL: "https://i.pravatar.cc/150?u=manolete"
+    source: "https://sanpedrohospitaldavao.com/internal-medicine/"
+    clinics:
+      - clinicid: 1
+        isWalkIns: false
+        canDoBoth: true
+        location: "San Pedro Hospital, Rita Stang Building, Rm 603, Davao City"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: "0939-273-8924"
+        schedule:
+          - day: "Monday-Friday"
+            timeIN: "09:00 am"
+            timeOUT: "04:00 pm"
+
+  - id: 4
+    name: "Dr. Guinevere Ang"
+    specialty: "Gastroenterologist"
+    description: "Highly recommended for digestive health concerns, known for thorough explanations and patient-centered care."
+    imageURL: "https://i.pravatar.cc/150?u=guinevere"
+    source: null
+    clinics:
+      - clinicid: 1
+        isWalkIns: true
+        canDoBoth: true
+        location: "Davao Doctors Hospital, Medical Arts Building, Davao City"
+        contacts:
+          - contact_id: 1
+            type: "Landline"
+            contact_details: "(082) 222-8000"
+        schedule:
+          - day: "Tuesday"
+            timeIN: "10:00 am"
+            timeOUT: "03:00 pm"
+          - day: "Thursday"
+            timeIN: "10:00 am"
+            timeOUT: "03:00 pm"
