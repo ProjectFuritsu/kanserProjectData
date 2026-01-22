@@ -57,8 +57,8 @@ Medical_Specialist:
             contact_details: "(082) 222-8000"
         schedule:
           - day: "Monday-Friday"
-            timeIN: "12:00 pm"
-            timeOUT: "06:00 pm"
+            timeIN: "09:00 pm"
+            timeOUT: "12:00 pm"
 
   - id: 3
     name: "Dr. Manolete Renato Guerrero"
