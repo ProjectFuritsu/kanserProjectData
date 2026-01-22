@@ -1,13 +1,13 @@
 Support_Group:
-  - id:
-    name:
+  - id: 1
+    name: "AMUMA"
     description:
     # [General Support Groups, Peer Support Groups, Therapeutic Support, Condition-Specific Support Groups, Online Support Groups, Family Support Groups, Educational Support Groups]
     type: "General Support Groups"
     # Official FB page or just leave it blank
-    socmedURL:
+    socmedURL: "https://www.facebook.com/groups/150208365000436"
     # Just right click and choose "copy image address"
-    bgImageURL:
+    bgImageURL: "https://scontent.fdvo2-2.fna.fbcdn.net/v/t39.30808-6/463145363_10212795273632575_3109500721688362608_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeFf1RuJ-Ab1fT8APkghxXpy61p6la-4A03rWnqVr7gDTVfRTZOr1IDMaXNq14pNWrbHPNpU0E164TgV1NsM3BgA&_nc_ohc=zwVwVQElvcAQ7kNvwEXbkcn&_nc_oc=Adn6YHsSdm0MU4SWKZztChJUaUxXvR-U0LuKsvlVgI-g0kHakOH45v2BIHIpJudRG7tBgmfHHpm0GwYr0CEEcZe0&_nc_zt=23&_nc_ht=scontent.fdvo2-2.fna&_nc_gid=gdKyf3i_QQMtKkSkn_YNxA&oh=00_AfrDGyRl9EmxWHLPC1uA0mv-gzC4lVn54DizaRWy37PjVg&oe=6977AC69"
     # These Data are base on the google maps
     location:
     longitude:
