@@ -1,6 +1,7 @@
 Medical_Specialist:
   - id: 1
-    name: "Dr. Elena M. Santos"
+    firstname: "Elena"
+    lastname: "Santos"
     specialty: "Interventional Cardiologist"
     description: "Specializes in catheter-based treatment of structural heart diseases, including angioplasty and stenting."
     imageURL: "https://i.pravatar.cc/150?u=elena"
@@ -41,7 +42,8 @@ Medical_Specialist:
             timeOUT: "05:00 pm"
 
   - id: 2
-    name: "Dr. Sheldon Paragas"
+    firstname: "Sheldon"
+    lastname: "Paragas"
     specialty: "Pediatric Interventional Cardiologist"
     description: "Expert in treating congenital heart defects in children using minimally invasive procedures."
     imageURL: "https://i.pravatar.cc/150?u=sheldon"
@@ -61,7 +63,8 @@ Medical_Specialist:
             timeOUT: "09:42 pm"
 
   - id: 3
-    name: "Dr. Manolete Renato Guerrero"
+    firstname: "Manolete Renato"
+    lastname: "Guerrero"
     specialty: "Neurologist"
     description: "A well-known specialist in the field of Adult Neurology, particularly focusing on stroke and elderly patient care."
     imageURL: "https://i.pravatar.cc/150?u=manolete"
@@ -81,7 +84,8 @@ Medical_Specialist:
             timeOUT: "04:00 pm"
 
   - id: 4
-    name: "Dr. Guinevere Ang"
+    firstname: "Guinevere"
+    lastname: "Ang"
     specialty: "Gastroenterologist"
     description: "Highly recommended for digestive health concerns, known for thorough explanations and patient-centered care."
     imageURL: "https://i.pravatar.cc/150?u=guinevere"
