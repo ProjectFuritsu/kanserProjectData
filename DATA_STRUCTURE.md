@@ -1,4 +1,6 @@
 ## Comprehensive Guide of the Data Structure of each data files
+Before you start engaging the files in the Data directory, it is reccomended to open this file and learn the strucutre to lessen mistakes
+
 
 ### Health Institution
 This is a instance of health facility around it includes hospitals, clinics, diagnostic centers and more.
