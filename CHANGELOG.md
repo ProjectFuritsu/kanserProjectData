@@ -24,7 +24,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 ## 1.0.0 - 2026-03-04
-[ProjectFuritsu] add a file intended for the developers have a guidelines in accessing and altering the files
+
+[ProjectFuritsu] add a file intended for the developers to have a guidelines in accessing and altering the files
+
 ### Added
 - Core data structures of each file
 - Comprehensive documentation
