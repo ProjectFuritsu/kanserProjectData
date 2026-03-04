@@ -1,5 +1,7 @@
-```yaml
+```
 {
-   "this-json": "looks awesome..."
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
 }
 ```
