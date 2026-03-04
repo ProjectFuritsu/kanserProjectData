@@ -1,3 +1,5 @@
-```javascript
-{ "some": "json" }
+```yaml
+{
+   "this-json": "looks awesome..."
+}
 ```
