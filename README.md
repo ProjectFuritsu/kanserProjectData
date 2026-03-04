@@ -1,7 +1,7 @@
 
 # Cancer YAML Data Repository
 
-This repository stores structured report data using YAML. It is designed to be simple, human-readable, version-controlled, and easy to consume by frontend or backend applications.
+This repository stores structured report data using YAML/JSON. It is designed to be simple, human-readable, version-controlled, and easy to consume by frontend or backend applications.
 
 The core idea is boring on purpose: predictable structure, clear fields, and minimal magic. That’s a feature, not a limitation.
 
