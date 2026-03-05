@@ -41,6 +41,13 @@ This is a instance of health facility around it includes hospitals, clinics, dia
                   "source": String,
                   "service_name": String,
                   "service_description": String,
+                  "service_schedule": [
+                                        {
+                                          "day": String,
+                                          "timeIn": String
+                                          "timeOut": String
+                                        }
+                                      ]
                   "requirements": [
                                     {
                                       "requirement_id": Number,
