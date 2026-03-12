@@ -38,6 +38,10 @@ Health_Insti:
         service_description: Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong
           tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at
           maiwasan ang sakit.
+        service_schedule:
+          - day: Monday and Wednesday
+            timeIn: 3:00 am
+            timeOut: 5:00 pm
         requirements:
           - requirement_id: 1
             requirement_description: A person must be registered to the chosen Yakap clinic.
@@ -48,3 +52,36 @@ Health_Insti:
             instruction: Prepare required documents
           - step: 3
             instruction: Submit documents to PhilHealth office
+      - serviceID: 2
+        source: null
+        service_name: Blood Chem
+        service_description: Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong
+          tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at
+          maiwasan ang sakit.
+        requirements:
+          - requirement_id: 1
+            requirement_description: A person must be registered to the chosen Yakap clinic.
+        procedure:
+          - step: 1
+            instruction: Fill out the PMRF form
+          - step: 2
+            instruction: Prepare required documents
+          - step: 3
+            instruction: Submit documents to PhilHealth office
+      - serviceID: 3
+        source: null
+        service_name: Blood Chem
+        service_description: Ang PhilHealth YAKAP ay programa ng gobyerno na naglalayong
+          tulungan ang mga Pilipino na mapangalagaan ang kanilang kalusugan at
+          maiwasan ang sakit.
+        requirements:
+          - requirement_id: 1
+            requirement_description: A person must be registered to the chosen Yakap clinic.
+        procedure:
+          - step: 1
+            instruction: Fill out the PMRF form
+          - step: 2
+            instruction: Prepare required documents
+          - step: 3
+            instruction: Submit documents to PhilHealth office
+
