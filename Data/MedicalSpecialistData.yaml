@@ -1,43 +1,188 @@
 Medical_Specialist:
   - id: 1
-    firstname: "Elena"
-    lastname: "Santos"
-    specialty: "Interventional Cardiologist"
-    description: "Specializes in catheter-based treatment of structural heart diseases, including angioplasty and stenting."
+    firstname: "Soo Rah"
+    lastname: "Chavez"
+    specialty: "Internal Medicine"
+    description: "I specialize in all adult disease (internal medicine) and also specialize in medical oncology (cancer care and treatment). I handle consultations virtually and face to face, administer vaccines and chemotherapy. I also do surveillance and screening of any adult cancer type."
     imageURL: "https://i.pravatar.cc/150?u=elena"
-    source: null
+    source: "https://seriousmd.com/doc/soo-rah-kwak?referrer=NSWEB&origin=https%3A%2F%2Fnowserving.ph%2Fsearch%2F%3Flocations%3DDavao%2520City%2C%2520Davao%2520del%2520Sur%26specializations%3DOncology%26page%3D1"
     clinics:
       - clinicid: 1
         isWalkIns: false
         canDoBoth: true
-        clinicName: "St. Jude Medical Center Clinic"
-        location: "St. Jude Medical Center, Room 302, Quezon City"
+        clinicName: "Metro Davao Medical and Research Center"
+        location: "Bajada, Davao City"
         contacts:
           - contact_id: 1
             type: "Mobile"
             contact_details: "09384376090"
         schedule:
+          - day: "Friday"
+            timeIN: "09:00 am"
+            timeOUT: "01:00 pm"
+  - id: 2
+    firstname: "Miguel"
+    lastname: "Villanueva"
+    specialty: "General Surgery"
+    description: "A General Surgeon/ Surgical Oncologist based in Davao City."
+    imageURL: "https://i.pravatar.cc/150?u=elena"
+    source: "https://seriousmd.com/doc/miguel-villanueva?referrer=NSWEB&origin=https%3A%2F%2Fnowserving.ph%2Fsearch%2F%3Flocations%3DDavao%2520City%2C%2520Davao%2520del%2520Sur%26specializations%3DOncology%26page%3D1"
+    clinics:
+      - clinicid: 1
+        isWalkIns: false
+        canDoBoth: true
+        clinicName: "Davao Doctors Care Center - SM Lanang"
+        location: "Ground Floor, SM Lanang, J.P. Laurel Ave, Agdao, Davao City, 8000 Davao del Sur"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: ""
+        schedule:
           - day: "Monday"
-            timeIN: "08:00 am"
-            timeOUT: "05:00 pm"
-          - day: "Tuesday"
-            timeIN: "08:00 am"
-            timeOUT: "05:00 pm"
+            timeIN: "01:00 pm"
+            timeOUT: "03:00 pm"
           - day: "Wednesday"
+            timeIN: "01:00 am"
+            timeOUT: "05:00 am"
+          - day: "Friday to Saturday"
+            timeIN: "01:00 am"
+            timeOUT: "03:00 pm"
+  - id: 3
+    firstname: "John Paul"
+    lastname: "Abrina"
+    specialty: "Radiation Oncology"
+    description: "Board-certified radiation oncologist practicing in the cities of Davao and Tagum"
+    imageURL: "https://i.pravatar.cc/150?u=elena"
+    source: "https://seriousmd.com/doc/jpabrina?referrer=NSWEB&origin=https%3A%2F%2Fnowserving.ph%2Fsearch%2F%3Flocations%3DDavao%2520City%2C%2520Davao%2520del%2520Sur%26specializations%3DOncology%26page%3D1"
+    clinics:
+      - clinicid: 1
+        isWalkIns: false
+        canDoBoth: true
+        clinicName: "Online Clinic"
+        location: "NowServing App"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: "09384376090"
+        schedule:
+          - day: "Monday to Tuesday, Friday"
             timeIN: "08:00 am"
-            timeOUT: "05:00 pm"
+            timeOUT: "04:00 pm"
+  - id: 4
+    firstname: "Perlita Joanne"
+    lastname: "Yu-dela Cruz"
+    specialty: "Internal Medicine"
+    description: ""
+    imageURL: "https://i.pravatar.cc/150?u=elena"
+    source: "https://seriousmd.com/doc/perlita-joanne-yudelacruz?referrer=NSWEB&origin=https%3A%2F%2Fnowserving.ph%2Fsearch%2F%3Flocations%3DDavao%2520City%2C%2520Davao%2520del%2520Sur%26specializations%3DOncology%26page%3D1"
+    clinics:
+      - clinicid: 1
+        isWalkIns: false
+        canDoBoth: true
+        clinicName: "Online Clinic"
+        location: "NowServing App"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: ""
+        schedule:
+          - day: "Monday, Wednesday and Friday"
+            timeIN: "10:00 am"
+            timeOUT: "04:00 pm"
+          - day: "Tuesday and Thursday"
+            timeIN: "01:00 pm"
+            timeOUT: "04:00 pm"
       - clinicid: 2
         isWalkIns: false
         canDoBoth: true
-        location: "San Pedro Hospital, Medical Arts Building, Davao City"
+        clinicName: "Brokenshire Integrated Health Ministries, Inc."
+        location: "Madapo Hill, Davao City"
         contacts:
           - contact_id: 1
             type: "Mobile"
-            contact_details: "09384376090"
+            contact_details: ""
         schedule:
-          - day: "Thursday"
-            timeIN: "9:31 pm"
-            timeOUT: "01:00 am"
-          - day: "Friday"
-            timeIN: "08:00 am"
-            timeOUT: "05:00 pm"
+          - day: "Monday to Friday"
+            timeIN: "12:00 pm"
+            timeOUT: "02:00 pm"
+      - clinicid: 3
+        isWalkIns: false
+        canDoBoth: true
+        clinicName: "Metro Davao Medical and Research Center"
+        location: "Bajada, Davao City"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: ""
+        schedule:
+          - day: "Tuesday and Thursday"
+            timeIN: "09:00 am"
+            timeOUT: "11:00 am"
+  - id: 5
+    firstname: "Lauralee"
+    lastname: "Leaño-Samonte"
+    specialty: "Breast and Surgical Oncology"
+    description: "A general surgeon and a surgical oncologist specializing in breast and other solid cancers"
+    imageURL: "https://i.pravatar.cc/150?u=elena"
+    source: "https://seriousmd.com/doc/lauralee-leanosamonte?referrer=NSWEB&origin=https%3A%2F%2Fnowserving.ph%2Fsearch%2F%3Flocations%3DDavao%2520City%2C%2520Davao%2520del%2520Sur%26specializations%3DOncology%26page%3D1"
+    clinics:
+      - clinicid: 1
+        isWalkIns: false
+        canDoBoth: true
+        clinicName: "Metro Davao Medical and Research Center"
+        location: "Bajada, Davao City"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: ""
+        schedule:
+          - day: "Monday, Wednesday and Friday"
+            timeIN: "01:00 pm"
+            timeOUT: "03:00 pm"
+      - clinicid: 2
+        isWalkIns: false
+        canDoBoth: true
+        clinicName: "Tagum Global Medical Center"
+        location: "Daang Maharlika Hwy"
+        contacts:
+          - contact_id: 1
+            type: "Mobile"
+            contact_details: ""
+        schedule:
+          - day: "Tuesday and Thursday"
+            timeIN: "10:00 am"
+            timeOUT: "12:00 pm"
+  - id: 6
+      firstname: "Jay-R"
+      lastname: "Enojo"
+      specialty: "Oncologic Urology / General Urology"
+      description: "Treats and manages Adrenal, Kidney, Ureter, Bladder, Prostate, Testicular and Penile Cancers and Genitourinary Stones"
+      imageURL: "https://i.pravatar.cc/150?u=elena"
+      source: "https://seriousmd.com/doc/jpabrina?referrer=NSWEB&origin=https%3A%2F%2Fnowserving.ph%2Fsearch%2F%3Flocations%3DDavao%2520City%2C%2520Davao%2520del%2520Sur%26specializations%3DOncology%26page%3D1"
+      clinics:
+        - clinicid: 1
+          isWalkIns: false
+          canDoBoth: true
+          clinicName: "Brokenshire Medical Center"
+          location: "Madapo Hill, Davao City"
+          contacts:
+            - contact_id: 1
+              type: "Mobile"
+              contact_details: ""
+          schedule:
+            - day: "Monday, Wednesday and Friday"
+              timeIN: "01:00 pm"
+              timeOUT: "05:00 pm"
+        - clinicid: 2
+          isWalkIns: false
+          canDoBoth: true
+          clinicName: "Metro Davao Medical and Research Center"
+          location: "Bajada, Davao City"
+          contacts:
+            - contact_id: 1
+              type: "Mobile"
+              contact_details: ""
+          schedule:
+            - day: "Saturday"
+              timeIN: "08:00 am"
+              timeOUT: "12:00 pm"
