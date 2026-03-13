@@ -31,9 +31,6 @@ Medical_Specialist:
         clinicName: "Davao Doctors Care Center - SM Lanang"
         location: "Ground Floor, SM Lanang, J.P. Laurel Ave, Agdao, Davao City, 8000 Davao del Sur"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Monday"
             timeIN: "01:00 pm"
@@ -58,9 +55,6 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: "09384376090"
         schedule:
           - day: "Monday to Tuesday, Friday"
             timeIN: "08:00 am"
@@ -79,9 +73,6 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Monday, Wednesday and Friday"
             timeIN: "10:00 am"
@@ -95,9 +86,6 @@ Medical_Specialist:
         clinicName: "Brokenshire Integrated Health Ministries, Inc."
         location: "Madapo Hill, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Monday to Friday"
             timeIN: "12:00 pm"
@@ -108,9 +96,6 @@ Medical_Specialist:
         clinicName: "Metro Davao Medical and Research Center"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Tuesday and Thursday"
             timeIN: "09:00 am"
@@ -129,9 +114,7 @@ Medical_Specialist:
         clinicName: "Metro Davao Medical and Research Center"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday, Wednesday and Friday"
             timeIN: "01:00 pm"
@@ -142,9 +125,6 @@ Medical_Specialist:
         clinicName: "Tagum Global Medical Center"
         location: "Daang Maharlika Hwy"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Tuesday and Thursday"
             timeIN: "10:00 am"
@@ -163,9 +143,6 @@ Medical_Specialist:
         clinicName: "Brokenshire Medical Center"
         location: "Madapo Hill, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Monday, Wednesday and Friday"
             timeIN: "01:00 pm"
@@ -176,9 +153,6 @@ Medical_Specialist:
         clinicName: "Metro Davao Medical and Research Center"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
         schedule:
           - day: "Saturday"
             timeIN: "08:00 am"
@@ -197,9 +171,7 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Friday"
             timeIN: "10:00 am"
@@ -211,9 +183,7 @@ Medical_Specialist:
         clinicName: "Matunog Cancer Care Clinic"
         location: "Guzman Street"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Friday"
             timeIN: "10:00 am"
@@ -232,9 +202,7 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday and Tuesday, Thursday and Saturday"
             timeIN: "09:00 am"
@@ -251,9 +219,7 @@ Medical_Specialist:
         clinicName: "M300 Health Science Wellness Center"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Tuesday, Thursday and Saturday"
             timeIN: "09:00 am"
@@ -272,9 +238,7 @@ Medical_Specialist:
         clinicName: "Orthopedic Center"
         location: "118 E, Quirino Avenue, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday, Wednesday and Friday"
             timeIN: "11:00 am"
@@ -293,9 +257,7 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Sunday"
             timeIN: "10:00 am"
@@ -306,9 +268,7 @@ Medical_Specialist:
         clinicName: "Brokenshire Integrated Health Ministries, Inc"
         location: "Madapo Hill, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Friday"
             timeIN: "10:00 am"
@@ -327,9 +287,7 @@ Medical_Specialist:
         clinicName: "Ecoland Medical and Wellness Center"
         location: "Quimpo Blvd. cor Tulip Drive, Ecoland"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Tuesday"
             timeIN: "08:00 am"
@@ -349,9 +307,7 @@ Medical_Specialist:
         clinicName: "Good Shepherd Hospital of Panabo City"
         location: "Km. 31 National Highway, New Pandan, Panabo, Philippines"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Wednesday"
             timeIN: "09:00 am"
@@ -365,9 +321,7 @@ Medical_Specialist:
         clinicName: "Davao Outpatient Surgery and Advanced Wound Care Center"
         location: "Km. 4 J.P. Laurel Avenue, Bajada"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday"
             timeIN: "02:00 pm"
@@ -388,9 +342,7 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Friday"
             timeIN: "05:00 pm"
@@ -404,9 +356,7 @@ Medical_Specialist:
         clinicName: "Latayan Urology Clinic DMSF"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday"
             timeIN: "11:30 am"
@@ -420,9 +370,7 @@ Medical_Specialist:
         clinicName: "Latayan Urology Clinic MDMRC"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Friday"
             timeIN: "01:00 pm"
@@ -441,9 +389,7 @@ Medical_Specialist:
         clinicName: "Online Clinic"
         location: "NowServing App"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: ""
+
         schedule:
           - day: "Monday to Saturday"
             timeIN: "06:00 pm"
