@@ -13,9 +13,6 @@ Medical_Specialist:
         clinicName: "Metro Davao Medical and Research Center"
         location: "Bajada, Davao City"
         contacts:
-          - contact_id: 1
-            type: "Mobile"
-            contact_details: "09384376090"
         schedule:
           - day: "Friday"
             timeIN: "09:00 am"
